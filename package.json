@@ -1,0 +1,17 @@
+{
+  "name": "canil-node",
+  "version": "1.0.0",
+  "description": "Mini projeto em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mustache-express": "^1.3.2"
+  }
+}
